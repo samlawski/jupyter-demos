@@ -1,5 +1,7 @@
 # Jupyter Notebook Demos
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/samlawski/jupyter-demos/HEAD)
+
 This repository serves as a container for various Jupyter Notebooks. 
 
 ## Development Environment
